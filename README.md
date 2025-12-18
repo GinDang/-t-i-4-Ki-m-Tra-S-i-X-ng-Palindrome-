@@ -1,2 +1,3 @@
-# -t-i-4-Ki-m-Tra-S-i-X-ng-Palindrome-
+Nhóm 16 - Kiểm Tra Số Đối Xứng
+
 Đề tài 4: Kiểm Tra Số Đối Xứng (Palindrome)
